@@ -1,0 +1,12 @@
+<!--pages/error/index.wxml-->
+<view class="container">
+
+<image class="error-img" src="/images/error.png"></image>
+
+<view class="error-box">
+  <text class="title">抱歉,请求发生错误</text>
+  <text class="message">{{error}}</text>
+  <button bindtap="retry" class="retry-btn">点击重试</button>
+</view>
+
+</view>

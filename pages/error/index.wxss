@@ -1,0 +1,36 @@
+/* pages/error/index.wxss */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.error-img {
+  width: 360rpx;
+  height: 340rpx;
+}
+
+.error-box {
+  margin-top: 100rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.title {
+  font-size: 36rpx;
+  color: #333;
+}
+
+.message {
+  font-size: 28rpx;
+  color: #888;
+  margin-top: 30rpx; 
+}
+
+.retry-btn {
+  margin-top: 50rpx;
+  width: 280rpx;
+}
