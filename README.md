@@ -31,11 +31,6 @@
 - [AI名片](https://github.com/gooking/visitingCard)
 - [仿海底捞订座排队 (uni-app)](https://github.com/gooking/dingzuopaidui) [码云镜像](https://gitee.com/javazj/dingzuopaidui)
 
-## 联系作者
-
-| 微信好友 | QQ好友 |
-| :------: | :------: |
-| <img src="https://dcdn.it120.cc/2021/09/13/61a80363-9085-4a10-9447-e276a3d40ab3.jpeg" width="200px"> | <img src="https://dcdn.it120.cc/2021/09/13/08a598d8-8186-4159-9930-2e4908accc5e.png" width="200px"> |
 
 ## 本项目使用了下面的组件，在此鸣谢
 

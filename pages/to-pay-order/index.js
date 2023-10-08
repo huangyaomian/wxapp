@@ -234,7 +234,7 @@ Page({
     }
   },
   async createOrder(e) {
-    // shopCarType: 0 //0自营购物车，1云货架购物车
+    // shopC1arType: 0 //0自营购物车，1云货架购物车
     const loginToken = wx.getStorageSync('token') // 用户登录 token
     const postData = {
       token: loginToken,
