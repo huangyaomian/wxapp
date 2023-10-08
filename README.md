@@ -12,10 +12,6 @@
 
 [https://github.com/EastWorld/tt-app-mall](https://github.com/EastWorld/tt-app-mall)
 
-## 扫码体验
-
-<img src="https://dcdn.it120.cc/2022/12/31/0215c085-d4d1-43e4-bd7d-0e7336eaa661.jpeg" width="200px">
-
 ## 详细配置/使用教程
 
 [https://www.it120.cc/help/ikfe2k.html](https://www.it120.cc/help/ikfe2k.html)
